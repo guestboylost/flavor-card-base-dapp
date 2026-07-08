@@ -1,0 +1,12 @@
+{
+  "app": "Flavor Card",
+  "theme": "taste note",
+  "baseAppId": "6a07f5324c3f57496e83968c",
+  "builderWallet": "0x0BD1352B0dDbf7580A42d1Bc62EA345648a10A09",
+  "builderCode": "bc_ja509vn6",
+  "network": "Base",
+  "liveDemo": "https://flavor-card.vercel.app",
+  "repository": "https://github.com/guestboylost/flavor-card-base-dapp"
+}
+
+<!-- public side copy -->
